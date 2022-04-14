@@ -15,7 +15,8 @@
     display: none;
   }
   .main-bg{
-    padding: 20px;
+    height: 400px;
+    padding: 100px;
     background-color: lightgray;
   }
 
@@ -31,21 +32,7 @@
     padding: 30px;
   } 
 
-.hide{
-  display: none;
-}
-.slide-container{
-  width: 300vw;
-  /* transform: translateX(-100vw);
-  transition: all 1s; */
-}
-.slide-box {
-  width: 100vw;
-  float: left;
-}
-.slide-box img{
-  width: 100%;
-}
+
 .navbar{
   position: fixed;
   width: 100%;
